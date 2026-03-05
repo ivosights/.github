@@ -1,0 +1,10 @@
+# Code owners - reviewers are automatically requested for changes in these paths
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repo (uncomment and set your team/username)
+# * @org/team-name
+
+# Specific paths (examples)
+# /src/backend/ @backend-team
+# /src/frontend/ @frontend-team
+# /.github/ @org/devops
