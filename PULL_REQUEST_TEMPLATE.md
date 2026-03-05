@@ -1,8 +1,3 @@
-### Title
-
-[TASK-ID] Short description of change
-*Example:* `[SCM-001] Add user login API`
-
 ### Description
 
 Brief summary of the changes made:
